@@ -1,0 +1,17 @@
+{
+  "name": "engrams",
+  "version": "1.0.0",
+  "description": "engrams wordpress theme",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wordpress",
+    "theme",
+    "portfolio",
+    "engrams"
+  ],
+  "author": "Dorian Karter",
+  "license": "ISC"
+}
